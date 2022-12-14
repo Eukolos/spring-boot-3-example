@@ -1,0 +1,8 @@
+version: '3'
+services:
+  app:
+    image: docker.io/library/spring-boot-3:0.0.1-SNAPSHOT
+    platform: wasi/wasm32
+    runtime: io.containerd.wasmedge.v1
+    ports:
+      - "9090:9090"
