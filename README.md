@@ -75,3 +75,12 @@ RESPONSE: HTTP 200 (OK)
 Content: paginated list 
 Location header: http://localhost:9090/v1/post/{id}
 ```
+
+
+
+### Resource
+
+- [Docker with WASM](https://docs.docker.com/desktop/wasm/)
+- [Spring Boot 3 release](https://spring.io/blog/2022/11/24/spring-boot-3-0-goes-ga)
+- [SpringDeveloper Youtube Channel](https://www.youtube.com/watch?v=TOfYlLjXufw&ab_channel=SpringDeveloper)
+- [GraalVM Native Image Support](https://docs.spring.io/spring-boot/docs/3.0.0/reference/html/native-image.html#native-image)
