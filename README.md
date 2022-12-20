@@ -31,7 +31,7 @@
         * Spring Boot 3
         * Spring Web
         * H2 Database
-* Docker with WASM
+* Docker
 * GraalVM CE Java 17-22.3.0
 
 ### Create a Post
